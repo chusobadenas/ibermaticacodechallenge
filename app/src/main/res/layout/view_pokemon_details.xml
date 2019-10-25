@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/pokemon_detail_view"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+  <ImageView
+      android:id="@+id/iv_cover"
+      android:layout_width="match_parent"
+      android:layout_height="@dimen/iv_cover_height"
+      android:contentDescription="@string/view_cover_description"/>
+
+  <TextView
+      android:id="@+id/tv_name"
+      style="@style/AppTheme.TextViewHeader"
+      android:freezesText="true"/>
+</LinearLayout>

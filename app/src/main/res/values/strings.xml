@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ibermatica Code Challenge</string>
+  <string name="activity_title_pokemon_details">Pokemon Details</string>
+  <string name="btn_text_retry">Retry</string>
+  <string name="view_cover_description">Cover</string>
+  <string name="progress_dialog_message">Loading…</string>
+  <string name="string_content_description">Non accessible view</string>
+  <string name="pokemon_image_description">Pokemon image</string>
+  <string name="action_search">Search</string>
+
+  <!-- Exception messages -->
+  <string name="error_message_generic">An error has occurred</string>
+  <string name="error_title_generic">Oops!</string>
+</resources>
